@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛡️ ElderGuard AI
 ### "Listen. Detect. Protect."
 
@@ -229,3 +230,6 @@ STEP 12: Incident summary shows: Risk 92%, threats listed, sensitive info REDACT
 ---
 
 *ElderGuard AI — Protecting elderly users from voice-based scam calls using AI-powered conversation analysis.*
+=======
+# elderguard-ai
+>>>>>>> 0e8b27b81162b210179b81c0c253caff500f1031
