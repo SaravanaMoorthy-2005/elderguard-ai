@@ -1,33 +1,30 @@
-<<<<<<< HEAD
-# 🛡️ ElderGuard AI
-### "Listen. Detect. Protect."
+🛡️ ElderGuard AI
+"Listen. Detect. Protect."
 
-**AI-Powered Real-Time Scam Call Protection for Elderly Users**
+AI-Powered Real-Time Scam Call Protection for Elderly Users
+Open : https://elderguard-ai-26t279-techwizards.vercel.app/ [for visit the Project]
 
----
-
-## 🎯 What is ElderGuard AI?
+What is ElderGuard AI?
 
 ElderGuard AI is a browser-based web application that demonstrates real-time AI-powered scam call detection and intervention, specifically designed to protect elderly users from voice-based social engineering attacks.
 
-**Core Innovation:** Context-aware conversation analysis + Dynamic risk scoring + Real-time intervention + Elderly-first accessibility
+Core Innovation:
+            Context-aware conversation analysis + Dynamic risk scoring + Real-time intervention + Elderly-first accessibility
 
----
+ Quick Start
 
-## 🚀 Quick Start
+Prerequisites
+-> Node.js 18+
+- >npm
 
-### Prerequisites
-- Node.js 18+
-- npm
-
-### Installation
+Installation
 
 ```bash
 cd elderguard-ai
 npm install
 ```
 
-### Local Development
+Local Development
 
 ```bash
 npm run dev
@@ -44,22 +41,7 @@ npm start
 
 ---
 
-## 🌐 Vercel Deployment
-
-### One-click Deploy
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new)
-
-### Manual Deploy
-
-1. Push this repository to GitHub
-2. Connect to Vercel
-3. Set environment variables (see below)
-4. Deploy
-
----
-
-## ⚙️ Environment Variables
+ Environment Variables
 
 Copy `.env.example` to `.env.local`:
 
