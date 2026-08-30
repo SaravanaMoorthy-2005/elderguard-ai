@@ -2,7 +2,7 @@
 "Listen. Detect. Protect."
 
 AI-Powered Real-Time Scam Call Protection for Elderly Users
-Open : https://elderguard-ai-26t279-techwizards.vercel.app/ [for visit the Project]
+Open : https://elderguard-ai-26t279-techwizards.vercel.app/ [to visit the Project]
 
 What is ElderGuard AI?
 
